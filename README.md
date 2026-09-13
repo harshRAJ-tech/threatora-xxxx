@@ -16,6 +16,7 @@
 [![SIH 2026](https://img.shields.io/badge/SIH%202026-Problem%20Statement%2026153-red?style=for-the-badge&logo=shield)](https://www.sih.gov.in/)
 [![NTRO Cybersecurity](https://img.shields.io/badge/NTRO-Cybersecurity%20%26%20Blockchain-blue?style=for-the-badge&logo=security)](https://ntro.gov.in/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Version 2.1.0](https://img.shields.io/badge/Version-2.1.0-blueviolet?style=for-the-badge&logo=git)](https://github.com)
 [![PyTorch 2.x](https://img.shields.io/badge/PyTorch-CPU%20%26%20CUDA%20Optimized-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Architecture Zero-Trust](https://img.shields.io/badge/Architecture-Air--Gapped%20Zero--Trust-10B981?style=for-the-badge&logo=lock)](https://github.com)
 [![Docker Ready](https://img.shields.io/badge/Docker-Containerized%20Deploy-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)

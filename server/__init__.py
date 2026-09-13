@@ -10,6 +10,8 @@ Implements:
 
 from __future__ import annotations
 
+__version__ = "2.1.0"
+
 import os
 import threading
 from pathlib import Path
